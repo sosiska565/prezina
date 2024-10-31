@@ -1,0 +1,8 @@
+.highlight {
+    background-color: #ff8e3d; /* Цвет фона */
+    color: 000000; /* Цвет текста */
+    padding: 2px 4px; /* Отступы для рамки */
+    border-radius: 3px; /* Закругление углов */
+}
+
+
